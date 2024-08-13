@@ -1,6 +1,12 @@
 package Task_8Aug;
 
 public class Student {
+	
+	/*Create a class with the name student containing three instance variables in it and 
+	 * they are name, rollnumber and marks. These three variables are string, int and double
+	 * data types respectively. Create a parameterized constructor that will take the values 
+	 * from the user  and will initialize the object's variable with those values at the
+	 * time of object creation with the help of arguments in the parameters.*/
 
 	 String name;
 	 int rollnumber;

@@ -1,6 +1,10 @@
 package Task_8Aug;
 
 public class Circle {
+	
+	/*Write a program using a class Circle with variables radius, color. Define
+	 * Constructor simple (radius = 1, color = "red") and parameterized constructor.*/
+	
 	int radius;
 	String color;
 	
